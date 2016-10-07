@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="txt_Grid">Grid</string>
+    <string name="txt_List">List</string>
+    <string name="img_Grid">ImgGrid</string>
+    <string name="img_List">ImgList</string>
+    <string name="txt_listview">Listview</string>
+</resources>
